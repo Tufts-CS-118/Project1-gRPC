@@ -18,7 +18,7 @@ To receive full credit for this lab, you must pass all the tests in <code>integr
 <ol>
 <li>Install protoc on your local machine</li>
 <li>Create your protobuf file. Make sure to name the package the same as your other files</li>
-<li>Run <code>sh generate_grpc.sh</code> the project directory to generate the go files. This script is pretty handy and I recommend you keep it for yourself ;)</li>
+<li>Run commands listed in the Section 5 of the project specs to generate the go files</li>
 </ol>
 
 <h2>Part 2: Server</h2>
